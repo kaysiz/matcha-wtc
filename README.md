@@ -6,8 +6,8 @@ The dating website project using Python and Flask
 
 # TODO
 #### User
-- [X] User auth
-- [X] User email confirmation
+- [ ] User auth
+- [ ] User email confirmation
 #### Profile
 - [ ] User profile page
 - [ ] Modification of profile info
